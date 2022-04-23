@@ -3,7 +3,7 @@
      lot to learn from commercial software and I'm trying to help make that happen!
 - 🌱 I’m currently learning: Micropython!
 - 💞️ I’m looking to collaborate on: IoT, entertainment, or anything that really makes a difference
-- 📫 How to reach me: I should probably set up a public email...
+- 📫 How to reach me: Let's try out this GitHub Discussions thing!
 
 <!---
 EternityForest/EternityForest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
